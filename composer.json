@@ -1,0 +1,5 @@
+{
+    "require": {
+        "comtele/comtele_sdk": "^1.1"
+    }
+}
